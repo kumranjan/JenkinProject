@@ -3,7 +3,7 @@
 <h2>Jenkins is an open source automation tool written in Java programming language that allows continuous integration.
 </h2>
 <br>
-<h2>Advantages of Jenkins<br>
+<h2 style ="color:violet">Advantages of Jenkins<br>
 
 It is an open source tool.<br>
 It is free of cost.<br>
